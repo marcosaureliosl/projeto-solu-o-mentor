@@ -12,10 +12,10 @@ body {
     display: flex;
     align-items: center;
     font-size: 15px;
+    justify-content: center;
 }
 .container {
     max-width: 350px;
-    margin: 0 auto;
 }
 .cartao {
     background-color: hsl(0, 0%, 100%);
